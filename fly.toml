@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for djcbdkxjdoxjdk on 2026-05-29T07:24:07Z
+# fly.toml app configuration file generated for kil on 2026-05-29T08:23:12Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'djcbdkxjdoxjdk'
+app = 'kil'
 primary_region = 'ams'
 
 [build]
